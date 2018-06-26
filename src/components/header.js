@@ -57,7 +57,7 @@ const Header = ({ siteTitle,desc,data}) => (
           >
            <img src={logo}  />
             {siteTitle}
-            <i><h4>{desc}</h4></i>
+            <i><h4>.................................{desc}</h4></i>
           </Link>
         </h1>
       </div>
